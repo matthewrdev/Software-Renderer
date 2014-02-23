@@ -1,0 +1,5 @@
+This bitmap loader was taken from http://users.ox.ac.uk/~orie1330/bmploader.html
+I needed a bitmap loader for textures so this was suitable.
+I have used it as a foundation and then implemented my own modifications to the loading in
+my texture manager which holds it.
+I made a few modifications to the file such as namespacing however that was all.

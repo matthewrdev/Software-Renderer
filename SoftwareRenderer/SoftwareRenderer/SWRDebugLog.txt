@@ -1,0 +1,8 @@
+Init    : Client window resize successfull
+Init    : Back-buffer initilisation successful.
+Init    : Render Device startup sucessful.
+Init    : Application startup was successful.
+Init    : Main listener initilised.
+Warning : SampleTex24.bmp texture failed to load. Is it a 24 bit bitmap?
+Shutdown: Main listener cleaned.
+Shutdown: Render Device shutdown sucessful.
